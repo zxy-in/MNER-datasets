@@ -13,7 +13,7 @@ We divided the Twitter-2015 and Twitter-2017 datasets into three parts: training
 
 ![图片](https://github.com/zxy-in/dataset/assets/67194202/5a365531-a7e0-47f2-83a8-2725c8108f90)
 
-## 3.Data Format
+## 3.Data format
 
 We set an image id for each picture, and we put this image id in the begging of a tweet. Here's an example of a tweet data.
 
